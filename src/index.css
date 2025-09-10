@@ -1,0 +1,4 @@
+/* Minimal reset to ensure full-height layout */
+:root { color-scheme: light; }
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body, #root { height: 100%; }
